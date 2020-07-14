@@ -66,3 +66,16 @@ bij indeed mis ik waar ik mijn opleidings niveau kan invullen.
 Wat zie je op de sites terug en wat je sterk vind en waarom?
 
 ik zie niet iets wat ik sterk vind.. Kan namelijk nergens een stageplek vinden waar ze een online een stageplaats aanbieden. 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Schrijf 5 van deze functionaliteiten uit als user stories die we later kunnen uitschrijven.
+
+1.  Als student wil ik graag kunnen invullen dat ik een MBO student ben en daarvoor een stage zoek.
+2. Als student wil ik graag kunnen zien hoe veel uur per week ik stage mag gaan lopen bij het bedrijf.
+3. Als student wil ik graag kunnen zien waar ik aan ga werken bij het stagebedrijf.
+4. Als student wil ik graag weten welke programmeertalen ik al moet beheersen voor de stageplek.
+5. Als student wil ik graag weten of er bij het stagebedrijf  parkeermogelijkheden zijn en of het betaald is. 
+
