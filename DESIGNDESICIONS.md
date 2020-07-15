@@ -9,7 +9,7 @@ Opdrachten lijst van Gino Kok
 1. **Hoe ga je op zoek naar een stage beschrijf dit stapsgewijs?**<br>
     *   Ik begin met zoeken naar websites waar stages aangeboden worden.
     *   Dan ga ik op websites zoals <a href="https://stageplaza.nl/stage_zoeken/" target="_blank">Stage plaza</a> of
-        <a href="https://www.stagemarkt.nl/Zoeken" target="_blank">Stage markt</a> om te kijken of iets me aanspreekt.
+        <a href="https://www.stagemarkt.nl/Zoeken" target="_blank">Stage markt</a>  kijken of een bedrijf me aanspreekt.
     *   Zodra ik een bedrijf heb gevonden die me aanspreekt, ga ik met meer verdiepen in het bedrijf. <br> (wat doen ze allemaal en verdiepen in de geschiedenis van het bedrijf.)
     *   Ik zorg dat ik een net en correct cv klaar heb en schrijf een motivatie brief.
     *   Ik neem contact op met het bedrijf om een afspraak te maken voor een gesprek en stuur mijn cv en motivatiebrief op.
