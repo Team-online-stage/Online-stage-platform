@@ -48,3 +48,10 @@ Vragen Opdracht 1
     10. Wat zie je op de sites terug wat je sterk vind en waarom?
         Een van de weinge dingen die ik goed vind is de zoekmachines op de site het volgt goed op wat er getypd wordt en zal bijna nooit met iets ongevraagds komen
         wel jammer dat er geen online stages beschikbaar zijn
+----------------------------------------------------------------------------------------
+Opdracht 2 - user stories
+1. Als stagair wil ik kunnen filteren op opleidingstype en niveau Zodat ik makelijker bedrijfen kan benaderen die bij mijn opleiding passen
+2. Als stagair wil ik weten of er doorgroeimogelijkheden zijn binnen het bedrijf
+3. Als stagair zou ik graag directere communicatie willen met bedrijven zodat ik weet waar ik aan toe ben
+4. Als stagair wil ik kunnen filteren of er mogelijkheden zijn tot stagevergoeding (ja, nee, bespreekbaar)
+5. Als stagair zou ik graag een korte omschrijving willen zien van de werkplek zodat ik me er op kan voorbereiden
