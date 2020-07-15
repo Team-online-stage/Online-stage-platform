@@ -79,3 +79,54 @@ Schrijf 5 van deze functionaliteiten uit als user stories die we later kunnen ui
 4. Als student wil ik graag weten welke programmeertalen ik al moet beheersen voor de stageplek.
 5. Als student wil ik graag weten of er bij het stagebedrijf  parkeermogelijkheden zijn en of het betaald is. 
 
+---------------------------------------------------------------------------------------------------------------------------
+
+1. Waar denk je aan bij een challenge?
+Ik denk aan een uitdagende opdracht over een bepaald onderwerp.
+Zoals wij ook in de opleiding een challange hebben gehad over greenfoot.
+We moesten toen een garp spel maken. 
+
+2. Wat zou jou aantrekken in een challenge?
+Een challenge trekt mij aan wanneer het onderwerp nieuw voor mij is of ik er niet zoveel van weet.
+
+3. Hoe zou je het vinden van een challenge makkelijker kunnen maken
+Als er een platform is waar je allerlei soort challenges kunt vinden en je er ook bij kunt 
+invullen welk programmeertaal je de challege wilt hebben.
+
+4. Heb je in het verleden wel eens challanges gedaan?
+Ja we hebben met school een aantal challeges gehad. 
+
+5. Wat voor beeld heb je bij de term hackathon?
+Waar ik aan denk bij de term hackathon is een bijeenkomst van ict'ers om een bepaald project te ontwikkelen 
+in bepaald aantal tijd. 
+
+6. Waar moet een challenge voor jou aan voldoen
+Ik heb niet bepaalde eisen omdat heel veel dingen nog nieuw zijn, maar als het maar een uitdagig is.
+
+7. Hoe zou je online naar een challenge zoeken beschrijf dit stapsgewijs
+1) Ik type 'Online code challenge' in bij google .
+2) Kijk tussen die sites die dat aanbieden
+3) Kijk welke challange mij het meest aanspreekt of waar ik meer over wil leren.
+
+8. Zoek naar een online challenge en leg vast welke websites je tegen komt.
+1) TopCoder
+2)Coderbyte
+3)Project Euler
+4)CodeChef
+
+9. Welk van de bovenstaande sites zou je beschrijven als een platform en waarom?
+TopCoder, Coderbyte en CodeChef, omdat veel mensen het gebruiken die bijdragen aan de forums, ze schrijven tutorials
+en nemen deel aan de codering wedstrijden.
+
+10. Zijn er dingen die je onder 5 hebt benoemd die je niet terugziet? Ofwel wat mis je?
+Het samenwerken met een x aantal mensen voor een project.
+
+11. Wat zie je op de sites terug wat je sterk vind en waarom?
+De wedstrijd challeges die je maandelijks kunt doen op een bepaalde tijd tegen andere programmeurs
+over de wereld vind ik een heel leuk idee, omdat de uitdaging veel groter is en je kunt zien hoe je er voor staat.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
