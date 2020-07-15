@@ -93,4 +93,39 @@ Opdracht 3 - challenges
  11.   Wat zie je op de sites terug wat je sterk vind en waarom?
         Ik vind het sterk dat je kan filteren op programmeertaal en moeilijkheidsgraad zodat iedereen op z'n eigen niveau kan werken
 
+        ------------------------------------------------------------------------------------
+        Opdracht 4 - tutorials
+
         
+  1.  Waar denk je aan bij een tutorial?
+        Een papieren handleiding of video('s) die stapsgeweis en duidelijke uitleg de lezer leert hoe ze iets moeten doen
+  2.  Wat trekt jou zou aantrekken in een tutorial?
+        Plaatjes, duidelijk ABN geschreven/gesproken, goede kwaliteit visuals in stappen opgedeeld
+  3.  Heb je wel eens tutorials gevolgd? En zo ja welke?
+        Ja ik heb een tutorial moeten volgen over het opnieuw installeren van een BIOS omdat de mijne het niet meer deed
+  4.  Hoe zou het vinden van een tutorial makkelijker kunnen maken
+        Door ze op een centrale plek te hebben op de site van een product en te groeperen bij onderwerp of bij veel voorkomende problemen
+  5.  Wat vind jij lastig bij het vinden van een tutorial
+        Ze zijn verspreid over het internet en vaak nooit beschikbaar bij het bedrijf die het product/dienst aanbieden
+  6.  Waar moet een tutorial voor jou aan voldoen
+        Plaatjes, duidelijk ABN geschreven/gesproken, goede kwaliteit visuals in stappen opgedeeld in stappen, het probleem moet eerst duidelijk gemaakt worden en vervolgens
+        van makkelijk naar moeilijk de verschillende oplossingen aangeven
+  7.  Hoe zou je online naar een tutorial zoeken beschrijf dit stapsgewijs
+        ik ga naar google
+        ik typ het probleem wat ik heb in en het modelnummer van het apparaat/versie van de software
+        ik kijk op verschillende sites naar goed beoordeelde handleidingen en kies er een om te lezen
+        als de uitvoer niet werkt blijf ik andere handleidingen lezen tot ik iets vind wat werkt
+  8.  Zoek naar een online tutorial en leg vast welke websites je tegen komt.
+        www.youtube.com
+        www.freecodecamp.org
+        www.udemy.com
+  9.  Welk van de bovenstaande sites zou je beschrijven als een platform en waarom?
+        Udemy - deze site heeft professioneele mensen uit het vakgebied die les geven in een door udemy bepaald format zodat alles op dezelfde manier wordt uigeelegd ook is het heel makkelijk om met mensen die dezelfde cursus als jou volgen om er over te praten en elkaar te helpen
+  10.  Zijn er dingen die je onder 5 hebt benoemd die je niet terugziet? Ofwel wat mis je?
+        nee
+  11.  Wat zie je op de sites terug wat je sterk vind en waarom?
+        op udemy vind ik de organisatie en de structuur heel sterk ook vind ik het goed dat het makkelijk is om met mensen die de cursus ook doen in ccontact te komen
+  12.  Welke onderwerpen zouden volgens jou echt onderwerp moeten zijn van een tutorial reeks ter voorbereiding van een stage?
+        -Benodigte software en hoe deze te installeren
+        -Hoe plan je stagewerk en mogelijk schoolwerk
+        -wat te doen bij conflicten
