@@ -123,3 +123,50 @@ Het samenwerken met een x aantal mensen voor een project.
 De wedstrijd challeges die je maandelijks kunt doen op een bepaalde tijd tegen andere programmeurs
 over de wereld vind ik een heel leuk idee, omdat de uitdaging veel groter is en je kunt zien hoe je er voor staat.
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Waar denk je aan bij een tutorial?
+Een video waarin een onderwerp word uitgelegd zodat je aan de hand daarvan het zelf kunt.
+
+2. Wat zou jou aantrekken in een tutorial?
+Als het onderwerp duidelijk word uitgeled met voorbeelden.
+
+3. Heb je wel eens tutorials gevolgd? En zo ja welke?
+Ja de tutorials van mmtuts over object georienteerd programmeren met php.
+
+4. Hoe zou het vinden van een tutorial makkelijker kunnen maken
+Als er een platform is waarin allerlei tutorials zijn te vinden. En je kunt zoeken op programmeertaal 
+en om welke methode het gaat. 
+
+5. Wat vind jij lastig bij het vinden van een tutorial
+De omschrijving die ik heb in mijn hoofd als zoekterm te formuleren.
+Ik weet de meeste ict termen niet maar kan wel uitleggen wat ik bedoel.
+
+6. Waar moet een tutorial voor jou aan voldoen
+Het moet een goede uitleg hebben over het onderwerp zodat je het in elke situatie kunt toepassen.
+
+7. Hoe zou je online naar een tutorial zoeken beschrijf dit stapsgewijs
+ik zou voluit opschrijven in google wat ik precies wil weten.
+Dan is het elk filmpje afgaan en kijken of ze uitleggen wat ik zoek.
+Kost super veel tijd maar je leert er wel veel van.
+
+8. Zoek naar een online tutorial en leg vast welke websites je tegen komt.
+1) Codecademy
+2) FreeCodeCamp
+3) Udemy
+
+9. Welk van de bovenstaande sites zou je beschrijven als een platform en waarom?
+Codecademy, FreeCodeCamp en Udemy zijn in mijn ogen een platform, omdat ze online classes hebben 
+waaronder tutorials.
+
+10. Zijn er dingen die je onder 5 hebt benoemd die je niet terugziet? Ofwel wat mis je?
+Ik mis meer kleinere tutorials bijvoorbeeld hoe je een navigatiebar moet programmeren in html
+inplaats van een hele cursus over beginnend html.
+
+11. Wat zie je op de sites terug wat je sterk vind en waarom?
+Dat er veel gratis cursussen zijn waar je veel aan hebt en dus veel van kunt leren.
+
+12. Welke onderwerpen zouden volgens jou echt onderwerp moeten zijn van een tutorial reeks ter voorbereiding van een stage?
+Hoe je ICT gerelateerd je CV kunt aanpassen of een portfolio kunt maken zodat ze kunnen zien wat je al beheerst.
+tutorials over veelgebruikte software van een ict bedrijf. 
+
+
