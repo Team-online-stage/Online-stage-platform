@@ -26,3 +26,12 @@ Welke keuzes maken we?
 9. Zijn er dingen die je onder 5 hebt benoemd die je niet terugziet? Ofwel wat mis je?
 
 10. Wat zie je op de sites terug wat je sterk vind en waarom?
+
+
+# Opdracht 2 - User Stories
+
+1. Als stagair wil ik graag zien wat de reistijd naar een stageplek is. Dan kan ik hiermee rekening houden.
+2. Als stagair wil ik graag zien waar de locatie is van het stagebedrijf. Dan kan ik een mogelijke route via openbaar vervoer plannen.
+3. Als stagair wil ik graag de contactinformatie duidelijk kunnen zien op de pagina. Dan hoef je niet te zoeken naar de telefoonnummers en emails van het bedrijf.
+4. Als stagair wil ik graag een samenvatting van wat daar allemaal wordt gemaakt kunnen zien.
+5. Als stagair wil ik graag een lijst met Stagebegelijders op de website kunnen zien.
