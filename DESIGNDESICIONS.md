@@ -65,3 +65,37 @@ Welke keuzes maken we?
     Niks.
 11. Wat zie je op de sites terug wat je sterk vind en waarom?
     Duidelijkheid, gezien je niet eerst door 10 paginas moet om bij de challenge te komen maar het staat gelijk op de homepage.
+
+# Opdracht 4 - Concept Tutorials
+1. Waar denk je aan bij een tutorial?
+    Een uitleg over hoe je iets moet doen.
+2. Wat trekt jou zou aantrekken in een tutorial?
+    Duidelijkheid in de het onderwerp dat jij opzoekt en niet dat er omheen wordt gedraaid.
+3. Heb je wel eens tutorials gevolgd? En zo ja welke?
+    Ja, een heleboel.
+    - Minecraft Plugin Tutorials
+    - Discord Bot Tutorials
+    - Algoritme Tutorials
+4. Hoe zou het vinden van een tutorial makkelijker kunnen maken
+    Een pastebin achterlaten met duidelijke werking van de code.
+    Meer uitleg in de video van wat iets doet, en hoe het werkt.
+5. Wat vind jij lastig bij het vinden van een tutorial
+    Het exacte probleem/ding vinden waarmee ik hulp nodig heb.
+6. Waar moet een tutorial voor jou aan voldoen
+    Het onderwerp in de titel moeten voltooien of het probleem dat wordt gevonden oplossen.
+7. Hoe zou je online naar een tutorial zoeken beschrijf dit stapsgewijs
+    Je opent google.com
+    Je gaat zoeken naar {Vraag} Tutorial.
+    Vindt een paar video's/websites met een tutorial van hoe dat moet.
+8. Zoek naar een online tutorial en leg vast welke websites je tegen komt.
+    - www.youtube.com
+    - www.codecademy.com
+9. Welk van de bovenstaande sites zou je beschrijven als een platform en waarom?
+    YouTube, gezien het een website is waarop heel veel video's staan, je kan erover praten, je hebt een community tab op kanalen.
+10. Zijn er dingen die je onder 5 hebt benoemd die je niet terugziet? Ofwel wat mis je?
+    niks.
+11. Wat zie je op de sites terug wat je sterk vind en waarom?
+    Duidelijkheid in de oplossing. Je krijgt meteen een bijna exacte oplossing voor het probleem waar jij mee zit.
+12. Welke onderwerpen zouden volgens jou echt onderwerp moeten zijn van een tutorial reeks ter voorbereiding van een stage?
+    De codetaal die wordt gebruikt in de stage, de opstart van het project.
+    De libraries die eventueel worden gebruit voor het bouwen van het project.
