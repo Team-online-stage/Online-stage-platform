@@ -48,6 +48,7 @@ Vragen Opdracht 1
     10. Wat zie je op de sites terug wat je sterk vind en waarom?
         Een van de weinge dingen die ik goed vind is de zoekmachines op de site het volgt goed op wat er getypd wordt en zal bijna nooit met iets ongevraagds komen
         wel jammer dat er geen online stages beschikbaar zijn
+
 ----------------------------------------------------------------------------------------
 Opdracht 2 - user stories
 1. Als stagair wil ik kunnen filteren op opleidingstype en niveau Zodat ik makelijker bedrijfen kan benaderen die bij mijn opleiding passen
@@ -55,3 +56,41 @@ Opdracht 2 - user stories
 3. Als stagair zou ik graag directere communicatie willen met bedrijven zodat ik weet waar ik aan toe ben
 4. Als stagair wil ik kunnen filteren of er mogelijkheden zijn tot stagevergoeding (ja, nee, bespreekbaar)
 5. Als stagair zou ik graag een korte omschrijving willen zien van de werkplek zodat ik me er op kan voorbereiden
+
+----------------------------------------------------------------------------------------
+Opdracht 3 - challenges
+
+
+ 1.   Waar denk je aan bij een challange?
+        Een opdracht of set opdrachten die een complexe applicatie maken, bijvoorbeeld bij ons op school heb je na de basiscursus PHP een set opdrachten die redelijk ingewikkeld zijn om je vaardigheden te testen in de programmeertaal
+
+ 2.   Wat trekt jou zou aantrekken in een challange?
+        moeilijkheid van de opdracht en het leren van nieuwe concepten
+
+ 3.   Hoe zou het vinden van een challange makkelijker kunnen maken
+        Als alles wat benodigt is voor het voltooien van de challange (tools) op een centrale plek aanwezig is
+
+ 4.   Heb je in het verleden wel eens challanges gedaan?
+        Ja, ik heb wel eens een challange gedaan met PHP ik moest een website maken waar de gebruiker een reis kan samenvoegen op zn acount en deze vervolgens kan boeken
+ 5.   Wat voor beeld heb je bij de term heckathon?
+        Een groep mensen die samen aan een applicate of meerdere applicaties werken
+ 6.   Waar moet een challange voor jou aan voldoen
+        Het moet uitdagend zijn
+        Het moet iets nieuws aanbieden
+        het moet goed uitgelegd worden
+ 7.   Hoe zou je online naar een challange zoeken beschrijf dit stapsgewijs
+        Ik ga naar google
+        ik zoek naar "programmer challenges"
+        zoek naar ~2 goede sites
+        ik kies de gene die er het leukst uitziet en die goed is uitgelegd.
+ 8.   Zoek naar een online challange en leg vast welke websites je tegen komt.
+        https://exercism.io/
+        https://edabit.com/challenges
+ 9.   Welk van de bovenstaande sites zou je beschrijven als een platform en waarom?
+         https://exercism.io/ omdat deze site goed georganiseerde content heeft en een professionele begeleider heeft om je te helpen
+ 10.  Zijn er dingen die je onder 5 hebt benoemd die je niet terugziet? Ofwel wat mis je?
+        nee
+ 11.   Wat zie je op de sites terug wat je sterk vind en waarom?
+        Ik vind het sterk dat je kan filteren op programmeertaal en moeilijkheidsgraad zodat iedereen op z'n eigen niveau kan werken
+
+        
