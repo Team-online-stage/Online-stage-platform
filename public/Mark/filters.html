@@ -128,8 +128,7 @@
                                     <a class="navigation__popout-link" href="filters.html">filteren</a>
                                 </li>
                                 <li class="navigation__popout-item">
-                                    <a class="navigation__popout-link" href="#">omschrijving werkplek</a>
-                                </li>
+                                    <a class="navigation__popout-link" href="Stage.html">Voorbeeld Stage</a>                                </li>
                             </ul>
                         </div>
                     </li>
@@ -156,9 +155,11 @@
                         <div class="col-xl-8 col-xl-offset-2 col-lg-10 col-lg-offset-1">
                             <div class="content-background">
 
+
                                 <div class="content">
-                                    <div class="form filter" id="filter">
+                                    <div class="form filter">
                                         <h2>Filters</h2>
+                                        <!--  Opleidingsniveus-->
                                         <fieldset class="input filter">
                                             <legend class="filter__title">opleidingsniveau</legend>
                                             <div class="input__group input__group--compact input__group--checkbox">
@@ -173,7 +174,10 @@
                                                 <input name="hobbies_compact[]" type="checkbox" id="chkbx-compact-4" class="input__control input__control--checkbox" checked="true" onchange="havochanged()">
                                                 <label class="input__label input__label--checkbox" for="chkbx-compact-4">HAVO</label>
                                             </div>
+                                        </fieldset>
 
+<!--                                        Opleidingen-->
+                                        <fieldset class="input filter">
                                             <legend class="filter__title">Opleiding:</legend>
                                             <div class="input__group input__group--compact input__group--checkbox">
                                                 <input name="hobbies_compact[]" type="checkbox" id="chkbx-compact-1" class="input__control input__control--checkbox" checked="true" onchange="aochanged()">
@@ -189,33 +193,52 @@
                                             </div>
                                         </fieldset>
 
+
+
+<!--                                        Vergoeding ja/nee/bespreekbaar-->
+                                        <fieldset class="input filter">
+                                            <legend class="filter__title">Stagevergoeding:</legend>
+                                            <div class="input__group input__group--compact input__group--checkbox">
+                                                <input name="hobbies_compact[]" type="checkbox" id="chkbx-compact-7" class="input__control input__control--checkbox" checked="true" onchange="verYes()">
+                                                <label class="input__label input__label--checkbox" for="chkbx-compact-7">Ja</label>
+                                            </div>
+                                            <div class="input__group input__group--compact input__group--checkbox">
+                                                <input name="hobbies_compact[]" type="checkbox" id="chkbx-compact-8" class="input__control input__control--checkbox" checked="true" onchange="verNo()">
+                                                <label class="input__label input__label--checkbox" for="chkbx-compact-8">Nee</label>
+                                            </div>
+                                            <div class="input__group input__group--compact input__group--checkbox">
+                                                <input name="hobbies_compact[]" type="checkbox" id="chkbx-compact-9" class="input__control input__control--checkbox" checked="true" onchange="verMischien()">
+                                                <label class="input__label input__label--checkbox" for="chkbx-compact-9">Bespreekbaar</label>
+                                            </div>
+                                        </fieldset>
                                     </div>
 
                                     <h1>Beschikbaare stages:</h1>
 
+<!--                                    Stages-->
                                     <ul class="list list--card list--card-small">
-                                        <li class="card card--small cards SOFTWARE-ONTWIKKELAAR MBO" >
-                                            <a href="#" class="card__content">
+                                        <li class="card card--small cards SOFTWARE-ONTWIKKELAAR MBO verYes" >
+                                            <a href="Stage.html" class="card__content">
                                                 <div class="card__thumb"></div>
-                                                <div class="card__body"><span class="card__title">Software ontwikkelaar bij WizzWeb</span><p class="card__content">Tags: Software ontwikkelaar, MBO</p></p> </div>
+                                                <div class="card__body"><span class="card__title">Software ontwikkelaar bij WizzWeb</span><p class="card__content">Tags: Software ontwikkelaar, MBO<br>Stagevergoeding: Ja</p> </div>
                                             </a>
                                         </li>
-                                        <li class="card card--small cards ICT VWO">
+                                        <li class="card card--small cards ICT VWO VerNo">
                                             <a href="#" class="card__content">
                                                 <div class="card__thumb"></div>
-                                                <div class="card__body"><span class="card__title">System and Network Engineering bij innov</span><p class="card__content">Tags: ICT beheer, VWO</p></div>
+                                                <div class="card__body"><span class="card__title">System and Network Engineering bij innov</span><p class="card__content">Tags: ICT beheer, VWO<br>Stagevergoeding: Nee</p></div>
                                             </a>
                                         </li>
-                                        <li class="card card--small cards ZORG HAVO">
+                                        <li class="card card--small cards ZORG HAVO verMischien">
                                             <a href="#" class="card__content">
                                                 <div class="card__thumb"></div>
-                                                <div class="card__body"><span class="card__title">Sociaal Pedagogische Hulpverlening bij leger des heils</span><p class="card__content">Tags: Zorg, HAVO</p></div>
+                                                <div class="card__body"><span class="card__title">Sociaal Pedagogische Hulpverlening bij leger des heils</span><p class="card__content">Tags: Zorg, HAVO<br>Stagevergoeding: Bespreekbaar</p></div>
                                             </a>
                                         </li>
-                                        <li class="card card--small cards ICT MBO">
+                                        <li class="card card--small cards ICT MBO verMischien">
                                             <a href="#" class="card__content">
                                                 <div class="card__thumb"></div>
-                                                <div class="card__body"><span class="card__title">Service bij PCtech</span><p class="card__content">Tags: ICT beheer, MBO</p></div>
+                                                <div class="card__body"><span class="card__title">Servicedesk bij PCtech</span><p class="card__content">Tags: ICT beheer, MBO<br>Stagevergoeding: Bespreekbaar</p></div>
                                             </a>
                                         </li>
                                     </ul>
@@ -225,7 +248,6 @@
                         </div>
                     </div>
                 </article>
-
 
             </div>
         </main>
@@ -258,8 +280,7 @@
                 </div>
             </div>
         </footer>
-        <script src="filter.js"></script>
-
     </div>
+    <script src="filter.js"></script>
     </body>
 </html>
