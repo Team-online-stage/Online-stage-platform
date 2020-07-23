@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="nl-NL">
+<head>
+    <meta name="generator" content="Hexo 3.9.0">
+    <meta charset="utf-8">
+
+    <title> Conduction | Tim</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="icon" href="../uno/components/favicon/ro-favicon-wit-0xffffff.png">
+
+    <link rel="stylesheet" href="../uno/core/base.css">
+    <link rel="stylesheet" href="../uno/core/grid.css">
+    <link rel="stylesheet" href="../uno/components/lists/lists.css">
+    <link rel="stylesheet" href="../uno/components/header/header.css">
+    <link rel="stylesheet" href="../uno/components/footer/footer.css">
+    <link rel="stylesheet" href="../uno/components/collapse/collapse.css">
+    <link rel="stylesheet" href="../uno/components/navigation/navigation.css">
+    <link rel="stylesheet" href="../uno/components/navigation/breadcrumbs.css">
+    <link rel="stylesheet" href="../uno/components/navigation/backlink.css">
+    <link rel="stylesheet" href="../uno/components/navigation/sidenav.css">
+    <link rel="stylesheet" href="../uno/components/form/form.css">
+    <link rel="stylesheet" href="../uno/components/form/input.css">
+    <link rel="stylesheet" href="../uno/components/button/button.css">
+    <link rel="stylesheet" href="../uno/components/skiplink/skiplink.css">
+    <link rel="stylesheet" href="../uno/components/tabs/tabs.css">
+
+
+    <link rel="stylesheet" href="../style.css">
+
+    <link rel="stylesheet" href="../uno/components/button/button.css">
+    <link rel="stylesheet" href="../uno/components/card/card.css">
+    <link rel="stylesheet" href="../uno/components/collapse/collapse.css">
+    <link rel="stylesheet" href="../uno/components/form/checkbox.css">
+    <link rel="stylesheet" href="../uno/components/form/filter.css">
+    <link rel="stylesheet" href="../uno/components/form/form.css">
+    <link rel="stylesheet" href="../uno/components/form/input.css">
+    <link rel="stylesheet" href="../uno/components/form/radio.css">
+    <link rel="stylesheet" href="../uno/components/hint/hint.css">
+    <link rel="stylesheet" href="../uno/components/label/label.css">
+    <link rel="stylesheet" href="../uno/components/list/definition-list.css">
+    <link rel="stylesheet" href="../uno/components/list/list-card.css">
+    <link rel="stylesheet" href="../uno/components/list/list-grid.css">
+    <link rel="stylesheet" href="../uno/components/list/list-files.css">
+    <link rel="stylesheet" href="../uno/components/list/list-notification.css">
+    <link rel="stylesheet" href="../uno/components/list/list-subject.css">
+    <link rel="stylesheet" href="../uno/components/list/list-search.css">
+    <link rel="stylesheet" href="../uno/components/list/list-timeline.css">
+    <link rel="stylesheet" href="../uno/components/list/list-filter.css">
+    <link rel="stylesheet" href="../uno/components/meta/meta.css">
+    <link rel="stylesheet" href="../uno/components/navigation/inpage.css">
+    <link rel="stylesheet" href="../uno/components/notification/notification.css">
+    <link rel="stylesheet" href="../uno/components/pagination/pagination.css">
+    <link rel="stylesheet" href="../uno/components/quote/quote.css">
+    <link rel="stylesheet" href="../uno/components/section/edit-section.css">
+    <link rel="stylesheet" href="../uno/components/section/inner-section.css">
+    <link rel="stylesheet" href="../uno/components/table/table.css">
+
+    <script src="../uno/vendor/js/Promise.min.js"></script>
+    <script src="../uno/vendor/js/system.js"></script>
+
+    <script>
+        System.config({
+            packages: {
+                '/': {
+                    defaultExtension: 'js'
+                }
+            }
+        });
+    </script>
+
+    <style>
+
+        .header {
+            height: auto;
+        }
+
+        .btn--block {
+            width: 100%;
+        }
+
+        .footer__content {
+            background-color: steelblue;
+        }
+
+        .top-nav {
+            background-color: steelblue;
+        }
+
+        #descriptie {
+            background: white;
+        }
+
+        #content {
+            padding: 50px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        #descriptie {
+            width: 40%;
+
+        }
+
+        /* Style the tab */
+        .tab {
+            overflow: hidden;
+            border: 1px solid #ccc;
+            background-color: steelblue;
+        }
+
+
+        .tab button {
+            background-color: steelblue;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+        }
+
+
+        .tab button:hover {
+            background-color: #ddd;
+        }
+
+        .tab button.active {
+            background-color: #ddd;
+        }
+
+        .tabcontent {
+            display: none;
+            padding: 6px 12px;
+            border: 1px solid #ccc;
+            border-top: none;
+        }
+
+    </style>
+</head>
+</html>
+<body>
+
+<div class="wrapper">
+    <a class="skiplink" href="#content">
+        <span class="skiplink__text">Ga direct naar inhoud</span>
+    </a>
+    <nav class="top-nav top-nav--hemelblauw">
+        <div class="container">
+            <div class="top-nav-autoresize">
+                <ul class="nav">
+
+                    <li class="nav__item">
+                        <a class="nav__link" href="../tim.html">terug naar hoofdpagina</a></li>
+
+                    <li class="nav__item">
+                        <a class="nav__link nav__link--active" href="stagezoeker.html">Stage website</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header class="header header--transparent" role="banner">
+        <div class="header-logo">
+            <a href="/" title="Logo Dienst Uitvoering Onderwijs">
+                <span class="screenreader-only">dienst uitvoering onderwijs, naar de homepage</span>
+            </a>
+        </div>
+    </header>
+
+    <div id="content">
+        <div class="mapouter">
+            <div class="gmap_canvas">
+                <iframe width="600" height="500" id="gmap_canvas"
+                        src="https://maps.google.com/maps?q=amsterdam&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                        frameborder="0"
+                        scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                <a href="https://www.embedgooglemap.net/blog/divi-discount-code-elegant-themes-coupon/">divi theme
+                    coupon</a></div>
+            <style>.mapouter {
+                position: relative;
+                text-align: right;
+                height: 500px;
+                width: 600px;
+            }
+
+            .gmap_canvas {
+                overflow: hidden;
+                background: none !important;
+                height: 500px;
+                width: 600px;
+            }</style>
+        </div>
+        <div id="descriptie">
+            <h1>marketings stage in Almere</h1>
+            <!-- Tab links -->
+            <div class="tab">
+                <button class="tablinks" onclick="openCity(event, 'werkomschrijving')">werkomschrijving</button>
+                <button class="tablinks" onclick="openCity(event, 'over ons')">over ons</button>
+                <button class="tablinks" onclick="openCity(event, 'contact')">contact</button>
+            </div>
+
+            <!-- Tab content -->
+            <div id="werkomschrijving" class="tabcontent">
+                <h3>werkomschrijving</h3>
+                <p></p>
+            </div>
+
+            <div id="over ons" class="tabcontent">
+                <h3>over ons</h3>
+                <p>Paris is the capital of France.</p>
+            </div>
+
+            <div id="contact" class="tabcontent">
+                <h3>contact</h3>
+                <p>Tokyo is the capital of Japan.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="debug-container" aria-hidden="true">
+        <div class="container">
+            <div class="row">
+                <div class="debug">
+                    <input type="checkbox"/>
+
+                    <div class="col-xs-1">
+                        <div>
+                            1
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div class="col-md-dash-left">
+                            2
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div class="col-lg-dash-left col-lg-dash-list">
+                            3
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div>
+                            4
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div>
+                            5
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div>
+                            6
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div>
+                            7
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div>
+                            8
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div class="col-lg-dash-right">
+                            9
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div>
+                            10
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div class="col-md-dash-right">
+                            11
+                        </div>
+                    </div>
+                    <div class="col-xs-1">
+                        <div>
+                            12
+                        </div>
+                    </div>
+
+                    <div class="guide--center"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <footer class="footer">
+        <div class="footer__content background--hemelblauw">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-4">
+                        <span class="footer__header">NL Design System 0.1.1</span>
+
+                        <ul class="list list--links footer__nav">
+                            <li><a href="../upgrade/index.html">Upgraden</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-xs-4">
+                        <span class="footer__header">Bijdragen</span>
+                        <ul class="list list--links footer__nav">
+                            <li><a rel="external" href="https://gitlab.com/nl-design-system/nl-design-system">GitLab</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-xs-4">
+                        <span class="footer__header">Contact</span>
+                        <ul class="list list--links footer__nav">
+                            <li><a href="">Stuur een e-mail</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/highlight.pack.js"></script>
+    <script src="js/examples.js"></script>
+    <script src="js/debug.js"></script>
+    <script>
+
+        function openCity(evt, tabnaam) {
+            // Declare all variables
+            var i, tabcontent, tablinks;
+
+            // Get all elements with class="tabcontent" and hide them
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+
+            // Get all elements with class="tablinks" and remove the class "active"
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+
+            // Show the current tab, and add an "active" class to the button that opened the tab
+            document.getElementById(tabnaam).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+    </script>
+
+</div>
+</body>
+</html>

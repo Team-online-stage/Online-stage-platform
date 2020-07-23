@@ -6,7 +6,6 @@ function stagefilter() {
     ul = document.getElementById("filters");
     li = ul.getElementsByTagName('li');
 
-    // Loop through all list items, and hide those who don't match the search query
     for (i = 0; i < li.length; i++) {
         a = li[i].getElementsByTagName("a")[0];
         txtValue = a.textContent || a.innerText;
@@ -17,3 +16,6 @@ function stagefilter() {
         }
     }
 }
+
+
+
