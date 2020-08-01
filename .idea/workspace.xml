@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80820e20-e9ab-4307-912a-16d84ade26ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f5AMuIkOOrBIZ7WS3DSov381ej" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Desktop\school\stage\Online-stage-platform\public\voorbeeld mark" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80820e20-e9ab-4307-912a-16d84ade26ee" name="Default Changelist" comment="" />
+      <created>1595497534857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595497534857</updated>
+      <workItem from="1595497536245" duration="5872000" />
+      <workItem from="1595503451050" duration="8181000" />
+      <workItem from="1595528758674" duration="8989000" />
+      <workItem from="1595586983863" duration="4238000" />
+      <workItem from="1595844250286" duration="94000" />
+      <workItem from="1596282730431" duration="23000" />
+      <workItem from="1596283086099" duration="74000" />
+    </task>
+    <task id="LOCAL-00001" summary="persoonlijke pagina aangepast">
+      <created>1595501357508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595501357508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="stage pagina met zoekbalk gemaakt">
+      <created>1595511261578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595511261578</updated>
+    </task>
+    <task id="LOCAL-00003" summary="voorbeeld stage pagina gemaakt.&#10;9 stage plaatsen gemaakt.">
+      <created>1595537461038</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595537461038</updated>
+    </task>
+    <task id="LOCAL-00004" summary="NL opdracht af">
+      <created>1595595647387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595595647387</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/public/uno/core/utils.js" />
+        <option value="$PROJECT_DIR$/public/uno/core/animations/Animation.js" />
+        <option value="$PROJECT_DIR$/public/uno/core/animations/Easings.js" />
+        <option value="$PROJECT_DIR$/public/uno/core/animations/SlideToggle.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/form/combobox.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/form/checkbox.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/list/filterlist.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/tabs/tabs.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/modal/modal.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/button/button.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/tooltip/tooltip.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/collapse/collapse.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/navigation/navigation.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/donut-chart/donut-chart.js" />
+        <option value="$PROJECT_DIR$/public/uno/components/notification/notification.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="persoonlijke pagina aangepast" />
+    <MESSAGE value="stage pagina met zoekbalk gemaakt" />
+    <MESSAGE value="voorbeeld stage pagina gemaakt.&#10;9 stage plaatsen gemaakt." />
+    <MESSAGE value="NL opdracht af" />
+    <option name="LAST_COMMIT_MESSAGE" value="NL opdracht af" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595507387979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1595507387979" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1595595645939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595595645939" />
+    <state x="549" y="114" key="FileChooserDialogImpl" timestamp="1595844257068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595844257068" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1595503331912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595503331912" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595537467950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595537467950" />
+  </component>
+</project>

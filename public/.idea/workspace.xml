@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a72235e6-be14-4303-a9ce-1e352f6bd6ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$USER_HOME$/.docker" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1eoStIxmGNMAymOWHeRx9pv3jFG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.docker" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a72235e6-be14-4303-a9ce-1e352f6bd6ec" name="Default Changelist" comment="" />
+      <created>1594986665130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594986665130</updated>
+      <workItem from="1594986666430" duration="1072000" />
+      <workItem from="1594989249093" duration="1549000" />
+      <workItem from="1595158281063" duration="2781000" />
+      <workItem from="1595162324460" duration="47000" />
+    </task>
+    <task id="LOCAL-00001" summary="begin NL design opdracht">
+      <created>1594987332312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594987332312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HREF linkjes gemaakt">
+      <created>1594989791214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594989791214</updated>
+    </task>
+    <task id="LOCAL-00003" summary="losse sites gemaakt">
+      <created>1594989898589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594989898589</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HREF fix">
+      <created>1594990199214</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594990199214</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/uno/core/utils.js" />
+        <option value="$PROJECT_DIR$/uno/core/animations/Animation.js" />
+        <option value="$PROJECT_DIR$/uno/core/animations/Easings.js" />
+        <option value="$PROJECT_DIR$/uno/core/animations/SlideToggle.js" />
+        <option value="$PROJECT_DIR$/uno/components/form/combobox.js" />
+        <option value="$PROJECT_DIR$/uno/components/form/checkbox.js" />
+        <option value="$PROJECT_DIR$/uno/components/list/filterlist.js" />
+        <option value="$PROJECT_DIR$/uno/components/tabs/tabs.js" />
+        <option value="$PROJECT_DIR$/uno/components/modal/modal.js" />
+        <option value="$PROJECT_DIR$/uno/components/button/button.js" />
+        <option value="$PROJECT_DIR$/uno/components/tooltip/tooltip.js" />
+        <option value="$PROJECT_DIR$/uno/components/collapse/collapse.js" />
+        <option value="$PROJECT_DIR$/uno/components/navigation/navigation.js" />
+        <option value="$PROJECT_DIR$/uno/components/donut-chart/donut-chart.js" />
+        <option value="$PROJECT_DIR$/uno/components/notification/notification.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="begin NL design opdracht" />
+    <MESSAGE value="HREF linkjes gemaakt" />
+    <MESSAGE value="losse sites gemaakt" />
+    <MESSAGE value="HREF fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="HREF fix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="67" key="#CLI_Interpreters" timestamp="1595161051900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1595161051900" />
+    <state x="654" y="275" key="#Notifications" timestamp="1594987686497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1594987686497" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1594990198513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594990198513" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1595161040360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595161040360" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1595161059387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595161059387" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594989905532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594989905532" />
+  </component>
+</project>
